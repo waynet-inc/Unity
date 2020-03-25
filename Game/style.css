@@ -1,0 +1,50 @@
+#main{
+	width:  800px; 
+	height: 300px;
+	position:absolute;
+	margin: auto;
+	top: 200;
+	right: 0;
+	left: 0;
+	border: 0;
+	}
+
+.text{
+	
+	position:absolute;
+	margin: auto;
+	top: 50;
+	right: 0;
+	left: 0;
+	text-align:  center;
+	font-size: xx-large;
+	
+}
+
+
+.button1{
+width:  400px; 
+height: 300px;
+position:absolute;
+left:0;
+margin: auto;
+border: 0;
+cursor: pointer; 	
+background: transparent url(New_1/web.png) no-repeat center top;
+cursor: hand; 
+outline:none;
+}
+
+
+.button2{
+width:  400px; 
+height: 300px;
+position:absolute;
+left:400;
+margin: auto;
+border: 0;
+cursor: pointer; 	
+background: transparent url(New_2/unity.png) no-repeat center top;
+cursor: hand; 
+outline:none;
+}
